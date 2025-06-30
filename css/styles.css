@@ -29,3 +29,14 @@
 #link1{
     margin-left: 50px;
 }
+
+#div2{
+
+    background-color: rgba(255, 228, 196, 0.599);
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 2px black;
+}
